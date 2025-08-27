@@ -12,6 +12,8 @@ public class DemoApplication {
 	}
 
     /*
+	// this is the apis list 
+ 
     http://localhost:8080/demo/apis/demo1
     http://localhost:8080/demo/apis/demo2
     http://localhost:8080/sample/apis/sample1
