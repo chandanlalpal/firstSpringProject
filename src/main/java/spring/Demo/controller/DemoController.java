@@ -11,7 +11,7 @@ public class DemoController {
        System.out.println("This is our first demo API");
        return "This is our first demo API";
    }
-
+@GetMapping("/demo2")
    public String getDemo2(){
        System.out.println("This is our second demo API");
        return "This is our second demo API";

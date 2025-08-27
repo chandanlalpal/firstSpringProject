@@ -11,4 +11,11 @@ public class DemoApplication {
 		System.out.println("hello");
 	}
 
+    /*
+    http://localhost:8080/demo/apis/demo1
+    http://localhost:8080/demo/apis/demo2
+    http://localhost:8080/sample/apis/sample1
+    http://localhost:8080/simple/apis/simple1
+     */
+
 }
